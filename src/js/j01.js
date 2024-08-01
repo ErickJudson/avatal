@@ -19,7 +19,7 @@ class SistemaEscolar {
     }
 
     main() {
-        // Aqui você pode adicionar lógica para controlar as opções do menu.
+        this.mostrarMenu();
         // Por exemplo, capturar a entrada do usuário e chamar o método correspondente.
     }
 }
